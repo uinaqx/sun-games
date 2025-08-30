@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  text-align:center;
+  background:#222;
+  color:#fff;
+  font-family:Arial, sans-serif;
+}
+h1{margin:15px 0;}
+canvas{
+  background:#111;
+  border:2px solid #0af;
+  margin:0 auto;
+  display:block;
+}
+kbd{
+  padding:3px 6px;
+  border:1px solid #ccc;
+  border-radius:3px;
+  background:#333;
+}
+a{
+  color:#0af;
+  margin-top:15px;
+  display:inline-block;
+}
